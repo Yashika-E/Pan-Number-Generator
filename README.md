@@ -13,5 +13,5 @@ This is a simple Java application that generates a PAN-like number based on user
  **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/pannogenerator.git
-   cd pannogenerator
+   git clone https://github.com/Yashika-E/Pan-Number-Generator
+   cd Pan-Number-Generator
